@@ -1,7 +1,7 @@
 
 # Terror Attack Prediction
 
-Predicting if the Attack predicted is major or minor
+Predicting if the Attack is major or minor
 
 Note: 'terror_data_final' dataset contain vast amount of misspell 
 
